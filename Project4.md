@@ -25,7 +25,7 @@ This project demonstrates practical DevOps skills such as container orchestratio
 ## 3. Project Structure
 
 I organized the project as follows:
-
+```
 docker-compose-project/
 │
 ├── app/
@@ -35,6 +35,7 @@ docker-compose-project/
 │   └── package-lock.json
 │
 └── docker-compose.yml
+```
 
 
 The separation of concerns made the project easier to manage and understand.
