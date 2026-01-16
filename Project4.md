@@ -114,6 +114,7 @@ docker compose up --build
 
 ### I added Screenshots
 ![alt text](images2/dockercmposeup.png)
+![alt text](images2/dockerimages.png)
 
 I verified that the containers were running using:
 ```bash
