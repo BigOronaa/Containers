@@ -1,4 +1,4 @@
-# Docker Node.js CI/CD Project
+# Building a Docker Node.js CI/CD pipeline
 
 ## Overview
 This project demonstrates a complete CI/CD pipeline for a simple Node.js application using Docker. The pipeline builds the Docker image locally, pushes it to Docker Hub, AWS ECR, and GCP Artifact Registry, and automates the process using GitHub Actions.
